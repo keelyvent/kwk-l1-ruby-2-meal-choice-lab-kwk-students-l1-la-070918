@@ -10,7 +10,7 @@ def breakfast(b="frosted flakes")
   "Morning is the best time for #{b}!"
 end
 
-breakfast("toast")
+puts breakfast("toast")
 
 
 
