@@ -11,6 +11,7 @@ def breakfast(b="frosted flakes")
 end
 
 puts breakfast("toast")
+puts breakfast
 
 
 
